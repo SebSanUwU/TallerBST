@@ -56,6 +56,6 @@ To download and execute the BST code, follow these steps:
    ```bash
    git clone https://github.com/SebSanUwU/TallerBST
    cd TallerBST
-   javac BinaryTree.java BST.java
+   javac BinaryTree.java BST.java Node.java
    java BST
 
